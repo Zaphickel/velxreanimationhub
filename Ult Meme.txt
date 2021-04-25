@@ -1,0 +1,5 @@
+_G.consolePrint = false -- change to false if you dont want a console to appear
+_G.Jitteryness = Vector3.new(35,0,0) -- how much it jitters, 50,0,0 is the default setting.
+loadstring(game:HttpGet("https://raw.githubusercontent.com/rawget69420/VelX/main/main.lua"))()
+wait(0.5)
+loadstring(game:HttpGetAsync("https://pastebin.com/raw/0QfjMKrF"))()
